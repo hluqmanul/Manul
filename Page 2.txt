@@ -1,5 +1,7 @@
 Mang eak
 
-VUE
+VUE 
 REACT
+LARAVEL
 PHYTON
+
